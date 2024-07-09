@@ -69,16 +69,52 @@
     width: 850px;
     height: 30%;
     border: 2px solid blue;
-
+    display: flex;
+    padding: 7%;
+    
+  }
+  .poster-image-content-one-text h1{
+     font-size: medium;
+     margin-bottom: 40px;
+     margin-top: 5px;
+     margin-left: 5px;
+  }
+  .poster-image-content-one-text p{
+    margin-right: 70px;
+  }
+ 
+  .poster-image-content-one-text button{
+    width: 150px;
+    height: 48px;
+    margin: 40px 0px 20px 10px;
+    background-color: transparent;
+    border: 1px solid rgb(49, 46, 46);
   }
   .poster-image-content-two{
     width: 850px;
     height: 30%;
     border: 2px solid red;
-  }
-   .poster-image-content-three{
+    
+}
+.poster-image-content-two{
     width: 850px;
     height: 30%;
-    border: 2px solid yellow;
-   }
+    border: 2px solid blue;
+    display: flex;
+    padding: 7%;
+    
+}
 
+.poster-image-content-two-text h4{
+   margin: 30px;
+}
+.poster-image-content-two-text p{
+    margin: 30px;
+} 
+
+.poster-image-content-two-text button{
+    width: 150px;
+    height: 48px;
+    margin-left: 270px;
+    background-color: transparent;
+    border: 1px solid rgb(49, 46, 46);}
