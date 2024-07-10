@@ -2,7 +2,6 @@
 
   .font{
     font-family: "Azeret Mono", monospace;
-    
   }
     
 
@@ -14,7 +13,6 @@
     .banner-image{
         height: 652px;
         width: 1440px;
-        border: 2px solid red;
         background-image: url('/assets/Hero-bg.png');
         margin: 0 auto;
 
@@ -22,7 +20,6 @@
     .image-container{
         height: 50%;
         width: 1440px;
-        border: 2px solid blue;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -35,6 +32,7 @@
     margin-left: 400px;
     margin-right: 400px;
     margin-bottom: 50px;
+    color:rgb(13, 19, 33);
   }
   .text-container button{
     margin-left: 620px;
@@ -169,7 +167,6 @@
 .inspiration-container{
   width: 1140px;
 height: 775px;
-border: 2px solid red;
 margin: 0 auto;
 margin-top: 88px;
 text-align: center;
@@ -187,14 +184,12 @@ height: 614px;
 .my-current-target-container{
   width: 1140px;
   height: 463px;
-  border: 2px solid red;
   margin: 0 auto;
   margin-top: 150px;
 }
 .my-current-target-container-text{
  width: 1140px ;
  height: 115px ;
- border: 2px solid rgb(0, 0, 0);
  text-align: center;
 }
 .my-current-target-container-text h1{
@@ -204,13 +199,11 @@ height: 614px;
 .my-current-target-container-image{
   width: 1140px ;
  height: 346px ;
- border: 2px solid rgba(30, 197, 52, 0.575);
  display: flex;
 }
 .image-one{
   width: 340px;
   height: 346px ;
-  border: 2px solid orangered;
   background-color: #fff6f4;
   margin-right: 38px;
   border-radius: 16px;
@@ -236,7 +229,6 @@ height: 614px;
 .image-two{
   width: 340px;
   height: 346px ;
-  border: 2px solid rgb(158, 97, 74);
   background-color: #f2f6fe;
   margin-right: 38px;
   border-radius: 16px;
@@ -254,7 +246,6 @@ height: 614px;
 .image-three{
   width: 340px;
   height: 346px ;
-  border: 2px solid rgb(0, 0, 0);
   background-color: #fffdf2;
   border-radius: 16px;
   padding: 50px ;
@@ -271,7 +262,6 @@ height: 614px;
 .need-support{
   width: 1140px;
 height: 314px;
-border: 2px solid red;
 margin: 0 auto;
 margin-top: 150px ;
 background-image: url(/assets/handshake.jpg);
@@ -282,7 +272,10 @@ border-radius: 16px;
 text-align: center;
 padding: 70px;
 }
-.need-support h1, p{
+.a{
+  color: white;
+}
+.b{
   color: white;
 }
 .need-support h1{
@@ -300,8 +293,8 @@ padding: 70px;
   padding: 10px;
 }
 .submit{
-  width: 120px;
-  height: 57px;
+  width: 110px;
+  height: 58px;
   background-color: #ffffff;
   font-size: 16px;
   border-radius: 10px;
