@@ -18,11 +18,13 @@
 
     }
     .image-container{
+        margin-top: 20px;
         height: 50%;
         width: 1440px;
         display: flex;
         justify-content: center;
         align-items: center;
+        
     }
   .text-container h1{
     margin-bottom: 40px;
