@@ -268,3 +268,41 @@ height: 614px;
 .image-three h3{
   text-decoration: underline;
 }
+.need-support{
+  width: 1140px;
+height: 314px;
+border: 2px solid red;
+margin: 0 auto;
+margin-top: 150px ;
+background-image: url(/assets/handshake.jpg);
+background-position: center;
+background-color: rgba(0,0,0,0.5);
+background-blend-mode: overlay;
+border-radius: 16px;
+text-align: center;
+padding: 70px;
+}
+.need-support h1, p{
+  color: white;
+}
+.need-support h1{
+  margin-bottom: 18px;
+}
+.need-support p{
+  margin-bottom: 35px;
+}
+.input{
+  width: 548px;
+  height: 57px;
+  background-color: #ffffff;
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.submit{
+  width: 120px;
+  height: 57px;
+  background-color: #ffffff;
+  font-size: 16px;
+  border-radius: 10px;
+}
