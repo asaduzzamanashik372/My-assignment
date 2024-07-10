@@ -195,7 +195,9 @@ height: 614px;
 .my-current-target-container-text h1{
   margin-top: 15px;
   margin-bottom: 10px;
+
 }
+
 .my-current-target-container-image{
   width: 1140px ;
  height: 346px ;
@@ -263,7 +265,7 @@ height: 614px;
   width: 1140px;
 height: 314px;
 margin: 0 auto;
-margin-top: 150px ;
+margin-top: 110px ;
 background-image: url(/assets/handshake.jpg);
 background-position: center;
 background-color: rgba(0,0,0,0.5);
@@ -299,3 +301,24 @@ padding: 70px;
   font-size: 16px;
   border-radius: 10px;
 }
+.footer{
+  width: 1440px;
+  height: 100px;
+  background-color: rgba(13, 19, 33, 0.03);
+  margin: 0 auto;
+  margin-top: 80px;
+  padding: 30px;
+  
+ 
+  
+}
+.footer-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.footer-spacing{
+  margin-right: 800px;
+  
+}
+ 
