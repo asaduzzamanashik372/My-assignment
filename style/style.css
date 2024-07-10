@@ -166,3 +166,21 @@
 .poster-container-three-image{
   padding: 80px;
 }
+.inspiration-container{
+  width: 1140px;
+height: 775px;
+border: 2px solid red;
+margin: 0 auto;
+margin-top: 88px;
+text-align: center;
+}
+.inspiration-container h1{
+  margin-bottom: 30px;
+}
+.inspiration-container p{
+  margin-bottom: 100px;
+}
+.inspiration-video{
+  width: 1140px;
+height: 614px;
+}
