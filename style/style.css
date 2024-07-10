@@ -184,3 +184,87 @@ text-align: center;
   width: 1140px;
 height: 614px;
 }
+.my-current-target-container{
+  width: 1140px;
+  height: 463px;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+.my-current-target-container-text{
+ width: 1140px ;
+ height: 115px ;
+ border: 2px solid rgb(0, 0, 0);
+ text-align: center;
+}
+.my-current-target-container-text h1{
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.my-current-target-container-image{
+  width: 1140px ;
+ height: 346px ;
+ border: 2px solid rgba(30, 197, 52, 0.575);
+ display: flex;
+}
+.image-one{
+  width: 340px;
+  height: 346px ;
+  border: 2px solid orangered;
+  background-color: #fff6f4;
+  margin-right: 38px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  
+}
+.imgone{
+  width: 50px;
+  height: 45.12px;
+  margin-bottom: 10px;
+}
+.image-one h1 {
+  margin-bottom: 20px;
+}
+.image-one p{
+  margin-bottom: 30px;
+}
+.image-one h3{
+  text-decoration: underline;
+}
+.image-two{
+  width: 340px;
+  height: 346px ;
+  border: 2px solid rgb(158, 97, 74);
+  background-color: #f2f6fe;
+  margin-right: 38px;
+  border-radius: 16px;
+  padding: 50px ;
+}
+.image-two h1 {
+  margin-bottom: 20px;
+}
+.image-two p{
+  margin-bottom: 30px;
+}
+.image-two h3{
+  text-decoration: underline;
+}
+.image-three{
+  width: 340px;
+  height: 346px ;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: #fffdf2;
+  border-radius: 16px;
+  padding: 50px ;
+}
+.image-three h1 {
+  margin-bottom: 20px;
+}
+.image-three p{
+  margin-bottom: 30px;
+}
+.image-three h3{
+  text-decoration: underline;
+}
